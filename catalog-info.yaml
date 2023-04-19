@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: kubernetes
+  annotations:
+    github.com/project-slug: NastyaEvdokymova/kubernetes
+spec:
+  type: other
+  lifecycle: unknown
+  owner: NastyaEvdokymova
