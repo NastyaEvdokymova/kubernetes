@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: NastyaEvdokymova/kubernetes
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: non-prod
   owner: NastyaEvdokymova
